@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="API_Practice" />
+        <module name="APIBatch81" />
       </profile>
     </annotationProcessing>
   </component>
